@@ -1,0 +1,4 @@
+Chef/Server/**
+Infra/**
+K8S/**
+samples/**
